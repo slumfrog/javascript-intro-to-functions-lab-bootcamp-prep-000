@@ -16,25 +16,7 @@ function logWhisper(string) {
 
 function sayHitoGrandma (string) {
  if (string === string.toLowerCase) {
-   return "XXX"
+   return "I can't hear you!"
  }
 }
 
-var dog = "cuddly"
- 
-if (dog === "hungry") {
-  console.log("Refilling food bowl.")
- 
-} else if (dog === "thirsty") {
-  console.log("Refilling water bowl.")
- 
-} else if (dog === "playful") {
-  console.log("Playing tug-of-war.")
- 
-} else if (dog === "cuddly") {
-  console.log("Snuggling.")
- 
-} else { 
-  console.log("Reading newspaper.")
-}
- 
