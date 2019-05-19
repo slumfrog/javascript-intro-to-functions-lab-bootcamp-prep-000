@@ -19,5 +19,3 @@ function sayHitoGrandma (string) {
    return "I can't hear you!"
  }
 }
-
-clear
