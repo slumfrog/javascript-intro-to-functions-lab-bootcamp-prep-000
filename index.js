@@ -20,3 +20,4 @@ function sayHitoGrandma (string) {
  }
 }
 
+clear
